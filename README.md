@@ -1,6 +1,6 @@
 # IPBES Sustainable Use Assessment - Figure Chap3 World Heritage List
 
-[![Copyright](https://img.shields.io/badge/Copyright-UNESCO WHC-red.svg)](https://whc.unesco.org/en/syndication)
+[![Copyright](https://img.shields.io/badge/Copyright-UNESCO%20WHC-red.svg)](https://whc.unesco.org/en/syndication)
 
 This repository contains the code to reproduce the Figure 'World Heritage List' of 
 the chapter 3 of the **IPBES Sustainable Use Assessment**. This figure shows the 
