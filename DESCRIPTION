@@ -1,0 +1,29 @@
+Package: ipbes.su.chap3.world.heritage
+Type: Package
+Title: IPBES Sustainable Use Assessment - Figure Chapter 3 - World Heritage List
+Version: 1.0
+Authors@R: c(
+    person(given   = "Nicolas",
+           family  = "Casajus",
+           role    = c("aut", "cre", "cph"),
+           email   = "nicolas.casajus@fondationbiodiversite.fr",
+           comment = c(ORCID = "0000-0002-5537-5294")))
+Description: Code to reproduce the Figure 'World Heritage List' of 
+    the chapter 3 of the IPBES Sustainable Use Assessment. This figure shows 
+    the global distribution of UNESCO World Heritage sites (both cultural and 
+    natural) with an emphasis on their endangered status.
+URL: https://github.com/ahasverus/ipbes-su-chap3-world_heritage
+BugReports: https://github.com/ahasverus/ipbes-su-chap3-world_heritage/issues
+License: file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+SystemRequirements: GDAL, GEOS, PROJ, Rtools (for Windows users)
+Imports: 
+    devtools,
+    graticule,
+    here,
+    readxl,
+    remotes,
+    sf,
+    sp
