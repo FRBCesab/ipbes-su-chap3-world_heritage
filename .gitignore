@@ -22,3 +22,4 @@ README.html
 inst/doc
 data/ipbes-regions/
 figures/*.svg
+figures/*.pdf
