@@ -1,11 +1,11 @@
-# IPBES Sustainable Use Assessment - Figure Chap3 World Heritage List
+## IPBES Sustainable Use of Wild Species Assessment - Chapter 3 - Data management report for the figures 3.6
 
 [![Copyright](https://img.shields.io/badge/Copyright-UNESCO%20WHC-red.svg)](https://whc.unesco.org/en/syndication)
 
-This repository contains the code to reproduce the Figure 'World Heritage List' of 
-the chapter 3 of the **IPBES Sustainable Use Assessment**. This figure shows the 
-global distribution of UNESCO World Heritage sites (both cultural and natural)
-with an emphasis on their endangered status.
+This repository contains the code to reproduce the Figure 3.6 of 
+the Chapter 3 of the **IPBES Sustainable Use of Wild Species Assessment**. 
+
+For more information: https://zenodo.org/record/7009684
 
 ![](figures/ipbes-su-chap3-world_heritage.png)
 
@@ -31,3 +31,6 @@ in the folder `figures/`.
 All material on this page is placed under: 
 Copyright © 1992 - 2022 UNESCO/World Heritage Centre. All rights reserved.
 
+Please cite this work as:
+
+> Sonia Carvalho Ribeiro, & Nicolas Casajus. (2022). IPBES Sustainable Use of Wild Species Assessment - Chapter 3 - Data management report for the figures 3.6. Zenodo. https://doi.org/10.5281/zenodo.7009684
